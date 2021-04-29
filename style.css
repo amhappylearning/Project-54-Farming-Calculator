@@ -1,0 +1,19 @@
+h1{
+    background-color:#69F0AE;
+    color: #0288D1
+  }
+  body{
+    text-align : center;
+    font-family: comic sans,sans-serif;
+    background-color:#1A237E;
+   color: #4DD0E1;
+  }
+  .ibox{
+    background-color: #18FFFF;
+    
+  }
+  
+  #btn1{
+    border-color:#7C4DFF;
+      border-width:5px;
+  }
